@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Techit Aungkachot | Team 04 | Ux/Ui | [https://github.com/Techit554/github101-practice/blob/main/docs/evidence/67050554-Techit.md]((https://github.com/Techit554/github101-practice/blob/main/docs/evidence/67050554-Techit.md)) | - |
+| Techit Aungkachot | Team 04 | Ux/Ui | [[https://github.com/Techit554/github101-practice/blob/main/docs/evidence/67050554-Techit.md]((https://github.com/Techit554/github101-practice/blob/main/docs/evidence/67050554-Techit.md))](https://github.com/Techit554/github101-practice/blob/main/docs/evidence/67050554-Techit.md) | - |
 
 ---
 
